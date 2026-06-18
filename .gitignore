@@ -61,3 +61,22 @@ compile_commands.json
 *creator.user*
 
 *_qmlcache.qrc
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# IDEs
+.idea/
+.vscode/
+
+# Runtime data
+.local_data/
+
+# OS files
+.DS_Store
+Thumbs.db
